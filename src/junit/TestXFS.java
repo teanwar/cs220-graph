@@ -64,7 +64,7 @@ graph bfs1 {
          * Plug into Graphviz at http://www.webgraphviz.com 
          * or https://dreampuf.github.io/GraphvizOnline/
 
-graph bfs1 {
+graph bfs2 {
       A -- B
       A -- C
       A -- D

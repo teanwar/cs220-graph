@@ -31,7 +31,7 @@ C G 1
 
 As graphviz file here:
 
-graph question1 {
+graph dijkstra1 {
       A -- C [label=10];
       A -- G [label=25];
       A -- B [label=3];
